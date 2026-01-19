@@ -45,7 +45,6 @@
 
 ### Artifacts
 * [📄 View Full Project Report (PDF)](Project_Report.pdf)
-* [📊 View Project Presentation (video)](Project_Presentation.mp4)
 
 ### Reflection
 * **What I Gained:** main task for me in this project was to collect information from the stakeholders of our system and i also collected their requirements.
