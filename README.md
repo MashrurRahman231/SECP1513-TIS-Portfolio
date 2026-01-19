@@ -16,7 +16,7 @@
 * [📄 View Visit Report (PDF)](Industry_talk_Report.pdf)
 * [🎥 Watch Interview Video](Interview_Video.mp4)
 * [industry talk 2 ppg poster](ppg_poster.pdf)
-* [industry talk 3 air asia and clarity techworks](Assignment 4-TIS.pdf)
+* [industry talk 3 air asia and clarity techworks](Assignment4TIS.pdf)
 
 ### Reflection
 * **What I Gained:** in that industry talk we listened to the representatives from microsoft, we learned about copilot . and also learned how  a it industry like UTM digital run internaly.for other industry talks other than utm digital we learned how those company runs and their procedure of hiring.
