@@ -30,7 +30,7 @@
 
 ### Artifacts
 ![PC Assembly](PC_Assembly_Lab.jpg)
-[pc Assembly](pc_Assembly.jpg)
+![pc Assembly](pc_Assembly.jpg)
 
 ### Reflection
 * **What I Gained:** it literally taught me how computers are organised physically, and also we reassembled the pc
