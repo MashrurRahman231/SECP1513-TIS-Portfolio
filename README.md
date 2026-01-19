@@ -14,7 +14,7 @@
 
 ### Artifact
 * [📄 View Visit Report (PDF)](Industry_talk_Report.pdf)
-* [🎥 Watch Interview Video](Interview_Video.mp4)
+* [🎥 Watch Interview Video](https://youtu.be/PdJnLjKOYQI?si=jCWgFjIMeCJmD_wJ)
 * [industry talk 2 ppg poster](ppg_poster.pdf)
 * [industry talk 3 air asia and clarity techworks](Assignment4TIS.pdf)
 
